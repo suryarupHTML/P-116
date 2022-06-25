@@ -1,0 +1,17 @@
+h1 {
+    background-color: cyan; 
+    color:brown;
+}
+
+.btn {
+    background-color: darkkhaki;
+}
+
+.btn:hover {
+    background-color:burlywood ;
+    color: chocolate;
+    font-weight: bold;
+    border-color: blanchedalmond;
+    border-style: ridge;
+    border-width: 2px;
+}
